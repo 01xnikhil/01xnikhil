@@ -17,7 +17,6 @@ I am a Python Django web developer with hands-on experience in building dynamic 
 
 
 ## 🏆 Achievements
-![Achievement 1](path/to/achievement1.png)  
-![Achievement 2](path/to/achievement2.png)
+![My Avatar](https://i.ibb.co/5xVYj6h/developer-cartoon.png)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
