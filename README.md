@@ -12,10 +12,6 @@ I am a Python Django web developer with hands-on experience in building dynamic 
 ![](https://nirzak-streak-stats.vercel.app/?user=01xnikhil&theme=radical&hide_border=false)<br/>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=01xnikhil&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
