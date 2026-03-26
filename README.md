@@ -16,7 +16,6 @@ I am a Python Django web developer with hands-on experience in building dynamic 
 [![](https://visitcount.itsvg.in/api?id=01xnikhil&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 🏆 Achievements
-![My Avatar](https://i.ibb.co/5xVYj6h/developer-cartoon.png)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
