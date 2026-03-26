@@ -15,4 +15,9 @@ I am a Python Django web developer with hands-on experience in building dynamic 
 ---
 [![](https://visitcount.itsvg.in/api?id=01xnikhil&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+## 🏆 Achievements
+![Achievement 1](path/to/achievement1.png)  
+![Achievement 2](path/to/achievement2.png)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
