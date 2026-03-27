@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Python Django web developer with hands-on experience in building dynamic and responsive web applications. I have worked on 2 complete projects, gaining practical skills in backend development, database management, and integrating front-end technologies like HTML, CSS, and JavaScript. I am passionate about creating efficient and scalable web solutions and continuously learning to enhance my development skills. <br>Core Language : Python ,  JavaScript , Java , C/C++<br>Framework  : Django<br>Database : MySQL , SQLite<br>Clouds : Git/GitHub
+I am a Python Django web developer with hands-on experience in building dynamic and responsive web applications. I have worked on 2 complete projects, gaining practical skills in backend development, database management, and integrating front-end technologies like HTML, CSS, and JavaScript. I am passionate about creating efficient and scalable web solutions and continuously learning to enhance my development skills. <br>Core Language : Python ,  JavaScript , Java , C/C++<br>Framework  : Django<br>Database : MySQL , SQLite<br>Better understanding in : Git/GitHub
 
 
 ## 🌐 Socials:
