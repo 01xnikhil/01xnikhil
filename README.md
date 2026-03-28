@@ -1,7 +1,4 @@
-## 🌟 GSoC 2026 Aspirant | Django Software Foundation
-I am currently focusing on enhancing type safety in the Django ecosystem. My goal is to bridge the gap between Django's dynamic nature and static type checking.
-
-### 📈 Open Source Impact (typeddjango/django-stubs)
+## 📈 Open Source Impact (typeddjango/django-stubs)
 - **Merged PR [#3227](https://github.com/typeddjango/django-stubs/pull/3227):** Synchronized `HttpRequest` path methods with Django 5.x runtime.
 - **Active Research:** Implementing `TypeAlias` and `Generic[T]` for Django test utilities and ORM precision.
 - **Tools:** Expert in `Mypy`, `Stubtest`, and PEP 561 compliance.
