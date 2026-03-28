@@ -1,3 +1,13 @@
+## 🌟 GSoC 2026 Aspirant | Django Software Foundation
+I am currently focusing on enhancing type safety in the Django ecosystem. My goal is to bridge the gap between Django's dynamic nature and static type checking.
+
+### 📈 Open Source Impact (typeddjango/django-stubs)
+- **Merged PR [#3227](https://github.com/typeddjango/django-stubs/pull/3227):** Synchronized `HttpRequest` path methods with Django 5.x runtime.
+- **Active Research:** Implementing `TypeAlias` and `Generic[T]` for Django test utilities and ORM precision.
+- **Tools:** Expert in `Mypy`, `Stubtest`, and PEP 561 compliance.
+
+
+
 # 💫 About Me:
 I am a Python Django web developer with hands-on experience in building dynamic and responsive web applications. I have worked on 2 complete projects, gaining practical skills in backend development, database management, and integrating front-end technologies like HTML, CSS, and JavaScript. I am passionate about creating efficient and scalable web solutions and continuously learning to enhance my development skills. <br>Languages: Python (Expert), C/C++, Java, JavaScript<br>Frameworks: Django (Primary), Django-Rest-Framework, Bootstrap<br> Database: MySQL, SQLite (Architecting relational schemas)<br>Tooling & DevOps: Mypy, Pyright, Git/GitHub, Linux (Ubuntu/SSH).
 
