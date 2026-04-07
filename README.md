@@ -16,7 +16,6 @@ I am a Python Django web developer with hands-on experience in building dynamic 
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-      <h1>💻 Tech Stack:</h1>
       <p>
         <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
