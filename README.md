@@ -17,7 +17,6 @@ I am a Python Django web developer with hands-on experience in building dynamic 
 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="400" align="right" />
 
-![GSoC 2026](https://img.shields.io/badge/GSoC-2026-blue?style=for-the-badge&logo=google)
 
 
 
