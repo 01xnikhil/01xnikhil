@@ -2,8 +2,7 @@
 - **Merged PR [#3227](https://github.com/typeddjango/django-stubs/pull/3227):** Synchronized `HttpRequest` path methods with Django 5.x runtime.
 - **Merged PR [#3270](https://github.com/typeddjango/django-stubs/pull/3270):** Refined type accuracy by replacing `Incomplete` and `Any` types and resolved `stubtest` default value mismatches for Django 5.x.
 - **Merged PR [#3294](https://github.com/typeddjango/django-stubs/pull/3294):** Enhanced type safety in `contrib.auth.views` by replacing `Any` with specific types like `Mapping[str, Any]` and `_StrOrPromise`, and resolved Mypy assignment errors to align with Django's runtime behavior.
-  
-- **Active Research:** Implementing `TypeAlias` and `Generic[T]` for Django test utilities and ORM precision.
+
 - **Tools:** Expert in `Mypy`, `Stubtest`, and PEP 561 compliance.
 
 
