@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-I am a web developer with hands-on experience in building dynamic and responsive web applications. I have worked on 2 complete projects, gaining practical skills in backend development, database management, and integrating front-end technologies like HTML, CSS, and JavaScript. I am passionate about creating efficient and scalable web solutions and continuously learning to enhance my development skills.
+I am a Full Stack developer with hands-on experience in building dynamic and responsive web applications. I have worked on 2 complete projects, gaining practical skills in backend development, database management, and integrating front-end technologies like HTML, CSS, and JavaScript. I am passionate about creating efficient and scalable web solutions and continuously learning to enhance my development skills.
 <br><br>**Technical Expertise** :<br>
 Backend Development:- Django, Django REST Framework (DRF), FastAPI, WebSockets (Channels/FastAPI WebSockets), JWT Authentication<br>
 Frontend Development:- React.js, HTML5, CSS3<br>
