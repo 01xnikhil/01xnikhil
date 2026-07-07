@@ -13,7 +13,7 @@ I am a Full Stack developer with hands-on experience in building dynamic and res
 Backend Development:- Django, Django REST Framework (DRF), FastAPI, WebSockets (Channels/FastAPI WebSockets), JWT Authentication<br>
 Frontend Development:- React.js, HTML5, CSS3,JavaScript <br>
 Databases:- PostgreSQL, MySQL, SQLite<br>
-Tools & DevOps:- Git, GitHub, Linux / Bash<br>
+Tools & DevOps:- Git, GitHub, Linux / Bash , NLP<br>
 Open Source:- Active Contributor to django-stubs (Focusing on type safety and runtime synchronization for Django 5.x)
 
 
