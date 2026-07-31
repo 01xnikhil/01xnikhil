@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nikhil Mishra</h1>
 <h3 align="center">Full Stack Developer & Open Source Contributor</h3>
-<!-- GitHub Friendly Header Section --> 
+<!-- GitHub Friendly Header Section -->
 <table border="0"> 
   <tr>
     <!-- Left Side: Saara Content -->
